@@ -9,10 +9,10 @@
 * [x] 简书博客
 
 ### KKPaddingTextView
-* [ ] 代码
-* [ ] readme
-* [ ] blog
+* [x] 代码
+* [x] readme
+* [x] blog
 ### UILabel UIButton InitionMethod
-* [ ] 代码
-* [ ] Readme文档
-* [ ] 简书博客
+* [x] 代码
+* [x] Readme文档
+* [x] 简书博客
